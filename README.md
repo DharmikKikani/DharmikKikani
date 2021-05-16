@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on the Opensource project for new feture devlopment.
 - 📫 Connect with me:
 <p align="left">
-<a href="https://twitter.com/@royalkikani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="@royalkikani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/dharmikkikani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dharmikkikani" height="30" width="40" /></a>
-<a href="https://instagram.com/||___dharmik_kikani___||" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="||___dharmik_kikani___||" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rksoltech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="rksoltech" height="30" width="40" /></a>
+<a href="https://twitter.com/@royalkikani" target="blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/geomicons-open/2.0.0/icons/twitter.svg" alt="@royalkikani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/dharmikkikani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="www.linkedin.com/in/dharmikkikani" height="30" width="40" /></a>
+<a href="https://instagram.com/||___dharmik_kikani___||" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="||___dharmik_kikani___||" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/rksoltech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="rksoltech" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
