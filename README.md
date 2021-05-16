@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Dharmik Kikani] (www.linkedin.com/in/dharmikkikani).
+- 👋 Hi, I’m [Dharmik Kikani] [www.linkedin.com/in/dharmikkikani].
 - 👀 I’m interested in Softwear Devlopment and Web devlopment with best funcanality.
 - 🌱 I’m currently learning Backend language .Net and .Net core and also i am a youtuber at RKSolTech.
 - 💞️ I’m looking to collaborate on the Opensource project for new feture devlopment.
